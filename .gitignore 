@@ -11,4 +11,3 @@ htmlcov/
 *.mo
 *.pot
 .tox
-.env
